@@ -4,5 +4,6 @@
     <file url="file://$PROJECT_DIR$/dataset/Handling data set/2021_summer.csv" charset="GBK" />
     <file url="file://$PROJECT_DIR$/dataset/Handling data set/2021_winter.csv" charset="GBK" />
     <file url="file://$PROJECT_DIR$/dataset/summer/summer_2021_by_date.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/dataset/summer/summer_2021_by_person.csv" charset="GBK" />
   </component>
 </project>
