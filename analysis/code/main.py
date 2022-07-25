@@ -84,6 +84,6 @@ def corr():
 
 
 if __name__ == '__main__':
-    plt_summer()
-    plt_winter()
-    # corr()
+    # plt_summer()
+    # plt_winter()
+    corr()
