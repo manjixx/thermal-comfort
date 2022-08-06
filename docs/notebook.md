@@ -13,3 +13,6 @@
 
 # 群体划分
 - 分别基于夏季与秋季数据，根据BMI、性别，主观热偏好，主观热敏感度以及聚类算法对群体进行划分
+
+
+[Pandas高级数据分析快速入门之五](https://blog.csdn.net/xiaoyw71/article/details/120094548)
