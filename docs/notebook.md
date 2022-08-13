@@ -16,3 +16,16 @@
 
 
 [Pandas高级数据分析快速入门之五](https://blog.csdn.net/xiaoyw71/article/details/120094548)
+
+
+# SVM算法
+
+## 硬间隔支持向量机
+
+## 软间隔支持向量机
+
+## 非线性支持向量机和核函数
+
+# KNN
+
+https://blog.csdn.net/m0_61642588/article/details/124277521
